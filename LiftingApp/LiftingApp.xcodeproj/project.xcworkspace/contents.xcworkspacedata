@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:/Volumes/bbs2h20ami/iPhone Programmierung /Projekt_Semester3/LiftingApp/LiftingApp/Main.storyboard">
+   </FileRef>
+   <FileRef
       location = "self:">
    </FileRef>
 </Workspace>
